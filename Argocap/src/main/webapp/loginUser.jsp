@@ -1,0 +1,63 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="img/ARGO.png">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>ARGOCAP</title>
+</head>
+<body>
+	<nav>
+		<div class="logo">
+			<a href="index.html"><img src="img/ARGOCAP.png" alt="Logo Image"></a>
+		</div>
+		<div class="hamburger">
+			<div class="line1"></div>
+			<div class="line2"></div>
+			<div class="line3"></div>
+		</div>
+		<ul class="nav-links">
+			<li><a href="index.html">Home</a></li>
+			<li><a href="about/aboutus.html">About Us</a></li>
+			<li><a href="#">Government Schemes</a></li>
+			<li><a href="#">Organic Farming</a></li>
+			<li><a href="contact/contactus.html">Contact Us</a></li>
+			<li><a class="login-button" href="loginUser.jsp">Login</a></li>
+			<li><button class="join-button" href="#">Join</button></li>
+		</ul>
+	</nav>
+
+	<section class="scroll-container">
+		<div class="container">
+			   Enter Email : <input type="email">
+			   Enter Password : <input type="password">
+			   <input type="submit">
+		</div>
+	</section>
+	<div id="google_translate_element"></div>
+
+	<script type="text/javascript">
+		function googleTranslateElementInit() {
+			new google.translate.TranslateElement({
+				pageLanguage : 'en'
+			}, 'google_translate_element');
+		}
+	</script>
+
+	<script type="text/javascript"
+		src="https://translate.google.com/translate_a/element.js?
+cb=googleTranslateElementInit">
+		
+	</script>
+
+	<script src="script.js"></script>
+
+</body>
+</html>

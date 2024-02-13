@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\biswa\OneDrive\Desktop\ArgoCap\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2091846409.index
+3411225933.index
+1389230578.index
+3977836876.index
+114780790.index
+3655873262.index

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\biswa\OneDrive\Desktop\ArgoCap\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2088840029.index
+\Argocap\src\main\java
+C:\Users\biswa\OneDrive\Desktop\ArgoCap\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2319938091.index
+\Argocap\src\main\resources
